@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="<a href="https://linkedin.com/in/umema sohail"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umema sohail" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umema sohail" height="30" width="40" /></a>
+<a href="<a href="https://linkedin.com/in/umema sohail" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umema sohail" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umema sohail" height="30" width="40" /></a>
 <a href="https://fb.com/umaima sohail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umaima sohail" height="30" width="40" /></a>
 </p>
 
