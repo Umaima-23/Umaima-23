@@ -1,5 +1,5 @@
-# 💫 Hey! This is me Umaima Sohail:
-# 💫 About Me:
+# 💫 Hey! This is me Umaima Sohail
+
 🔭 I’m currently working on Mern Stack<br>🤝 I’m looking for help with frontend development<br>🌱 I’m currently learning Javascript<br>💬 Ask me about Html Css Js Bootstrap<br>
 
 
