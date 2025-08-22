@@ -1,9 +1,10 @@
-# 💫 About Me:
-I'm currently learning JavaScript!<br>Right now I'm a frontend developer<br>
+# 💫 Hey! This is me Umaima Sohail:
+I'm a frontend web developer from Pakistan<br>
+I'm currently learning JavaScript!<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Umema Sohail) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umaimasohail234@gmail.com) 
+[!LinkedIn(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Umema Sohail) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umaimasohail234@gmail.com) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
