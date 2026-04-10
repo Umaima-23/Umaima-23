@@ -12,7 +12,7 @@
 <h2 align="center">👋 About Me</h2>
 <p align="center">
   <img src="https://cdn.qwenlm.ai/output/wV10g69cc29b031faba4100146c245aed/t2i/30687876-fa6f-432f-b87c-0cfddd5ce51f/1775848330d7be.png?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXNvdXJjZV91c2VyX2lkIjoid1YxMGc2OWNjMjliMDMxZmFiYTQxMDAxNDZjMjQ1YWVkIiwicmVzb3VyY2VfaWQiOiIxNzc1ODQ4MzMwZDdiZSIsInJlc291cmNlX2NoYXRfaWQiOiJlOTU4YmVkOS1lMWEzLTQwOGQtYTFhMS0zNDk3ODkxNWY4YTUifQ.RzFGKs5Z5zRC0SPZzMMKStBR6Bi964hbIo4jSxtndps&x-oss-process=image/resize,m_mfit,w_450,h_450" 
-       width="180" 
+       width="800" 
        style="border-radius: 50%; border: 3px solid #0077B5; box-shadow: 0 4px 12px rgba(0,119,181,0.3);" 
        alt="Profile Picture"/>
 </p>
